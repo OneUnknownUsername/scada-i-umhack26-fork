@@ -12,7 +12,7 @@
 * **Mobile Application:** [https://deep-nan.netlify.app/](https://deep-nan.netlify.app/)
 * **Pitching Video:** [https://drive.google.com/file/d/1G7RDlWFsJaeuXnGnsksEjZ9VekYneYTb/view?usp=sharing](https://drive.google.com/file/d/1G7RDlWFsJaeuXnGnsksEjZ9VekYneYTb/view?usp=sharing)
 
-**Watch the SCADA-i Demo:**
+**Preliminary SCADA-i Demo:**
 <br/>
 <a href="https://drive.google.com/file/d/1G7RDlWFsJaeuXnGnsksEjZ9VekYneYTb/view" target="_blank">
   <img src="https://www.intermedia-solutions.de/wp-content/uploads/video-thumbnail-01.jpg" alt="Play SCADA-i Demo" width="500" />
